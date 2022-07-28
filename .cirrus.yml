@@ -3,9 +3,9 @@ env: # Environment variables to pass to all tasks
     CIRRUS_WORKING_DIR: "/tmp/ci" # Where to clone the aosp-builder repo
 
 # store our secrets here
-    github_token: "ENCRYPTED[!82ee7e07446c86fe97dda507543443a525fec83e693679c8f84d740764987310d74262013f45a1e5a56cc54e334e8f7c!]"
-    bot_api: "ENCRYPTED[!10482e25ca82cf0efa74e4c474a9e5cb82c1b2e5545657dd1917cba34aa08ce880b37bef99a47d0a49c4bb48523144b9!]"
-    chat_id: "ENCRYPTED[!c519abe30864df229179faa4e1eeaa0fde992d896ed620d45cb1f2ca25f0ee3b9373d08fb64a737c8759ae592ef9351c!]"
+    github_token: "ENCRYPTED[!b6fe42af45f7f920e64262b48a5f127e0a782c2e7994865fb307b763e0aedfbf97e7d1f3244bd89b7a577b1e30838211!]"
+    bot_api: "ENCRYPTED[!053449b23ff90809d2093d5cd2c56428466430cfcded5d8db910c7b83e9eca1932cc1bd11bcb2d20f02aa98b415a932c!]"
+    chat_id: "ENCRYPTED[!3cb93816112b848fda7fbd0c892dd801e4a1660638aea1de441f5e475563258f2b49161697043df3406c0e392c3c522c!]"
     git_cookies: 0
 
 # store information about git here
